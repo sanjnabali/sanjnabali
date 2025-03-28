@@ -48,9 +48,7 @@
 
 ---
 
-### **🐍 Watch My Contributions Grow!**  
-**Help me contribute regularly**
-![GitHub Snake Animation - Dark Mode](https://raw.githubusercontent.com/sanjnabali/output/main/github-snake-dark.svg)
+
 
 
 
