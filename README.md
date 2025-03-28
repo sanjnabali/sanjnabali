@@ -50,7 +50,8 @@
 
 ### **🐍 Watch My Contributions Grow!**  
 **Help me contribute regularly**
-![GitHub Snake GIF](https://raw.githubusercontent.com/sanjnabali/output/main/ocean.gif)
+![GitHub Snake Animation - Dark Mode](https://raw.githubusercontent.com/sanjnabali/output/main/github-snake-dark.svg)
+
 
 
 ---
