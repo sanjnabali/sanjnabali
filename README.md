@@ -50,7 +50,7 @@
 
 ### **🐍 Watch My Contributions Grow!**  
 **Help me contribute regularly**
-![Snake animation](https://github.com/sanjnabali/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/sanjnabali/sanjnabali/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
