@@ -42,15 +42,15 @@
 ---
 
 ### **📊 GitHub Stats & Achievements**  
-![GitHub Streak](https://streak-stats.demolab.com?user=PrincessSanjna&theme=tokyonight&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrincessSanjna&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrincessSanjna&layout=compact&theme=vision-friendly-dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=sanjnabali&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjnabali&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjnabali&layout=compact&theme=vision-friendly-dark)
 
 ---
 
 ### **🐍 Watch My Contributions Grow!**  
 **Help me contribute regularly**
-![Snake animation](https://github.com/PrincessSanjna/PrincessSanjna/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/sanjnabali/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
