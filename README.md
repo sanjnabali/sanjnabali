@@ -1,5 +1,5 @@
 ### 👑 Welcome to My Kingdom! I'm Sanjna 👑  
-#### 🚀 AI Enthusiast | Developer | Researcher | Future Entrepreneur |   
+#### 🚀 AI Enthusiast | Developer | Researcher |   
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&width=600&lines=Passionate+about+AI%2C+Research%2C+and+Innovation!;Building+next-gen+AI+solutions!;Turning+Dreams+Into+Reality!)
 
